@@ -1,0 +1,6 @@
+c:\users\2com\documents\visual studio 2015\Projects\XrisiCourseWorkOOP\XrisiCourseWorkOOP\bin\Debug\XrisiCourseWorkOOP.exe.config
+c:\users\2com\documents\visual studio 2015\Projects\XrisiCourseWorkOOP\XrisiCourseWorkOOP\bin\Debug\XrisiCourseWorkOOP.exe
+c:\users\2com\documents\visual studio 2015\Projects\XrisiCourseWorkOOP\XrisiCourseWorkOOP\bin\Debug\XrisiCourseWorkOOP.pdb
+c:\users\2com\documents\visual studio 2015\Projects\XrisiCourseWorkOOP\XrisiCourseWorkOOP\obj\Debug\XrisiCourseWorkOOP.exe
+c:\users\2com\documents\visual studio 2015\Projects\XrisiCourseWorkOOP\XrisiCourseWorkOOP\obj\Debug\XrisiCourseWorkOOP.pdb
+c:\users\2com\documents\visual studio 2015\Projects\XrisiCourseWorkOOP\XrisiCourseWorkOOP\obj\Debug\XrisiCourseWorkOOP.csprojResolveAssemblyReference.cache
